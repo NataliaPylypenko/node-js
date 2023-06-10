@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c75e1c14-7c1e-4f54-900c-5fd1cff1524a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ejs-views/add-post.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejs-views/contacts.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejs-views/error.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejs-views/index.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejs-views/partials/nav.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejs-views/post.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejs-views/posts.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/contacts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejs-views/add-post.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/ejs-views/add-post.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejs-views/contacts.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/ejs-views/contacts.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejs-views/error.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/ejs-views/error.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejs-views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/ejs-views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejs-views/post.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/ejs-views/post.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejs-views/posts.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/ejs-views/posts.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/add-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/error.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -47,6 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ejs-views" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -87,6 +83,8 @@
       <workItem from="1686386661156" duration="1652000" />
       <workItem from="1686388467805" duration="1081000" />
       <workItem from="1686395459287" duration="1824000" />
+      <workItem from="1686397297842" duration="592000" />
+      <workItem from="1686412427248" duration="1282000" />
     </task>
     <servers />
   </component>
