@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c75e1c14-7c1e-4f54-900c-5fd1cff1524a" name="Default Changelist" comment="" />
+    <list default="true" id="c75e1c14-7c1e-4f54-900c-5fd1cff1524a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ejs-views/add-post.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejs-views/contacts.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejs-views/error.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejs-views/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejs-views/partials/nav.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejs-views/post.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejs-views/posts.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/posts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/add-post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +27,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2QgikEAsvzt6ygjt1Dkq6X9lSKP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,8 +46,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webpack-template" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ejs-views" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\PROGRAMMING\domains\nodejs\ejs-views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\PROGRAMMING\domains\nodejs\ejs-views\partials" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,6 +83,10 @@
       <workItem from="1686216343806" duration="1546000" />
       <workItem from="1686218153391" duration="1578000" />
       <workItem from="1686219982445" duration="2299000" />
+      <workItem from="1686375142918" duration="1236000" />
+      <workItem from="1686386661156" duration="1652000" />
+      <workItem from="1686388467805" duration="1081000" />
+      <workItem from="1686395459287" duration="1824000" />
     </task>
     <servers />
   </component>

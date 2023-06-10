@@ -2,16 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>home</title>
+    <title>contacts</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
     <style>
         body {
-            display: flex;
+            padding-top: 80px;
             min-height: 100vh;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
             font-family: 'Montserrat', sans-serif;
             font-size: 20px;
             background: linear-gradient(to bottom, #00d2ff, #928dab);
@@ -44,12 +41,15 @@
         }
 
         nav a {
-            text-decoration: none;
-            color: #fff;
             min-height: 60px;
             display: block;
             padding: 10px 20px;
             line-height: 60px;
+        }
+
+        a {
+            text-decoration: none;
+            color: #fff;
         }
     </style>
 </head>
@@ -62,7 +62,9 @@
         <li><a href="/contacts">Contacts</a></li>
     </ul>
 </nav>
-<h1>Personal Blog</h1>
-<p>Build with Node.js Express, EJS, MongoDB</p>
+<h1>Contacts:</h1>
+<ul>
+    <li><a href="https://github.com/NataliaPylypenko">GitHub</a></li>
+</ul>
 </body>
 </html>
