@@ -276,3 +276,19 @@ Middleware в случае с HTTP-сервером в Node.JS — это про
 в обычный объект, или получить доступ к кукам в виде объекта, и т.п.
 Суть middleware довольно-таки проста: это функция, которая принимает три параметра: request, response и next.
 ```
+
+## Обработка POST запроса (Handling Post Requests)
+
+```js
+app.post('/add-post', (req, res) => {
+    const { title, author, text } = req.body;
+    const post = {
+        id: new Date(),
+        date: (new Date()).toLocaleDateString(),
+        title,
+        author,
+        text,
+    };
+    res.render(createPath('post'), { post, title });
+});
+```
