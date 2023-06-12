@@ -279,6 +279,7 @@ Middleware в случае с HTTP-сервером в Node.JS — это про
 
 ## Обработка POST запроса (Handling Post Requests)
 
+# server.js
 ```js
 app.post('/add-post', (req, res) => {
     const { title, author, text } = req.body;
@@ -292,3 +293,31 @@ app.post('/add-post', (req, res) => {
     res.render(createPath('post'), { post, title });
 });
 ```
+
+# model
+```js
+const mongoose = require('mongoose');
+const Schema = mongoose.Schema;
+
+const postSchema = new Schema({
+    text: {
+        type: String,
+        required: true,
+    },
+    title: {
+        type: String,
+        required: true,
+    },
+    author: {
+        type: String,
+        required: true,
+    },
+}, { timestamps: true });
+
+const Post = mongoose.model('Post', postSchema);
+
+module.exports = Post;
+```
+
+## Добавление и получение данных (Get & Post Requests)
+
