@@ -321,3 +321,5 @@ module.exports = Post;
 
 ## Добавление и получение данных (Get & Post Requests)
 
+## Удаление и редактирование данных (Delete & Update Requests)
+
