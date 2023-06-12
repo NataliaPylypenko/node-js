@@ -323,3 +323,5 @@ module.exports = Post;
 
 ## Удаление и редактирование данных (Delete & Update Requests)
 
+## MVC и Роутер (MVC Pattern & Router)
+
