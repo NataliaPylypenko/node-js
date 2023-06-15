@@ -325,3 +325,4 @@ module.exports = Post;
 
 ## MVC и Роутер (MVC Pattern & Router)
 
+## Создание API (Create API)
