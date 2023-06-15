@@ -220,9 +220,11 @@ server.listen(3000, 'localhost', (error) => {
 * `npm install -save-dev <package>` - install with develop dependency
 
 
-* `nodemon` - is a utility that will monitor for any changes in your source and automatically restart your server.
-* `ejs` - is a simple templating language that lets you generate HTML markup with plain JavaScript. No religiousness about how to organize things. No reinvention of iteration and control-flow. It's just plain JavaScript.
-* `express` - fast, unopinionated, minimalist web framework for Node.js.
+* `npm i nodemon` - is a utility that will monitor for any changes in your source and automatically restart your server.
+* `npm i ejs` - is a simple templating language that lets you generate HTML markup with plain JavaScript. No religiousness about how to organize things. No reinvention of iteration and control-flow. It's just plain JavaScript.
+* `npm i express` - fast, unopinionated, minimalist web framework for Node.js.
+* `npm i dotenv` - Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.
+* `npm i chalk` - Terminal string styling done right.
 
 ## Node.js & Express (Node.js & Express)
 
